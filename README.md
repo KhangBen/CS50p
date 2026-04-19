@@ -6,7 +6,7 @@ website: https://cs50.harvard.edu/python/
 ## 📚 Course Progress
 
 | Topic   | Topic                 | Status         |
----------------------------------------------------
+|---------|-----------------------|----------------|
 | Topic 0 | Functions & Variables | In Progress    |
 | Topic 1 | Conditionals          | Coming Soon    |
 | Topic 2 | Loops                 | Coming Soon    |
